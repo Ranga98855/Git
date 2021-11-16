@@ -104,7 +104,7 @@
 			<name>Nexus Repository</name>
 			<url>http://3.110.41.79:8081/repository/practice-snapshot/</url>
 		</snapshotRepository>	
-	</distributionManagemeent>
+	</distributionManagement>
   <build>
     <finalName>maven-web-application-master</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
